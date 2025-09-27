@@ -1,0 +1,16 @@
+# --- Core data & visualization ---
+pandas            # data manipulation & cleaning
+numpy             # numerical computations
+matplotlib        # basic plotting
+seaborn           # advanced visualization
+
+# --- Machine learning ---
+scikit-learn      # ML pipeline, preprocessing, metrics, classical models
+xgboost           # gradient boosting model
+lightgbm          # gradient boosting (fast, efficient)
+
+# --- Model explainability ---
+shap              # model interpretability (SHAP values & plots)
+
+# --- Development ---
+jupyterlab        # notebook environment for EDA & experiments
